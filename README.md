@@ -1,6 +1,6 @@
-# REST API for users impemented on Crow with C++    
+# Simple REST API for users    
 
-Example of REST API implemented on C++ with Crow framework.  
+Simple REST API for users implemented on C++ with Crow framework.  
 
 ## Instalation  
 
